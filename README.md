@@ -2,7 +2,7 @@
 A Fast and Minimal Notes App.<br>
 <p>
 AdroitNotes is a Fast,Minimal Efficient Note taking Application.<br>
-Features of AdroitNotes:
+Features of AdroitNotes:<br>
   1.) AmoledDark Theme.<br>
   2.) Priority Mode For Your Notes ,So that Important Notes are Never Missed.<br>
   3.) Automatic and different colour Assignments for Each note Created.<br>
