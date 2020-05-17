@@ -16,7 +16,7 @@ Features of AdroitNotes:<br>
 
 <h3> Screenshots - Few Screenshots included ,More Screenshots can be found in Screenshots Folder.</h3>
 
-<img src="https://github.com/tiquasar/adroitnotes/blob/master/ScreenShots/Screenshot%20(3).jpeg" style="width:120px;height:20px;">
+<img src="https://github.com/tiquasar/adroitnotes/blob/master/ScreenShots/Screenshot%20(3).jpeg" height="48" width="48" >
 
 
 <b>This app is Developed by Ayush Anand</b><br>
