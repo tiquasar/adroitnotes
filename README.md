@@ -8,7 +8,8 @@ Features of AdroitNotes:<br>
   3.) Automatic and different colour Assignments for Each note Created.<br>
   4.) Beautiful and Minimal Theme Design and Splash Screen.<br>
   5.) Lightweight on CPU Resources.<br>
-  6.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br><br>
+  6.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br><br
+<b>This app is Developed by Ayush Anand</b><br>
 
   
   
@@ -23,5 +24,5 @@ Features of AdroitNotes:<br>
 
 
 
-<b>This app is Developed by Ayush Anand</b><br>
+
 <h5> This app is A part of the PROJECT work for 2 credit course(The course is handeled by DSC VIT Vellore)</h5><br>
