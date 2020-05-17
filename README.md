@@ -26,4 +26,4 @@ Features of AdroitNotes:<br>
 
 
 
-<h5> This app is for the graded PROJECT work for 2 credit course(By Developer Student Club in my College).
+<h5> This app is made by me for the graded PROJECT work for 2 credit course(By Developer Student Club in my College).
