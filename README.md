@@ -19,7 +19,7 @@ Features of AdroitNotes:<br>
 <h3> Screenshots - Few Screenshots included ,More Screenshots can be found in Screenshots Folder.</h3>
 
 
-<img src="https://github.com/tiquasar/adroitnotes/blob/master/ScreenShots/splash.jpeg" height="450" width="250"  >
+<img src="https://github.com/tiquasar/adroitnotes/blob/master/ScreenShots/splash.png" height="450" width="250"  >
 <img src="https://github.com/tiquasar/adroitnotes/blob/master/ScreenShots/Screenshot%20(3).jpeg" height="450" width="250" >
 
 <img src="https://github.com/tiquasar/adroitnotes/blob/master/ScreenShots/Screenshot%20(2).jpeg" height="450" width="250"  >
