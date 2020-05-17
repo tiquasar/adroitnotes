@@ -25,4 +25,4 @@ Features of AdroitNotes:<br>
 
 
 
-<h5> This app is A part of the PROJECT work for 2 credit course(The course is handeled by DSC VIT Vellore)</h5><br>
+<h5> This app is for the graded PROJECT work for 2 credit course(By Developer Student Club in my College).
