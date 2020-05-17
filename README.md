@@ -14,5 +14,7 @@ Features of AdroitNotes:<br>
   
 </p>
 
+<h3> Screenshots - Few Screenshots included ,More Screenshots can be found in Screenshots Folder</h3>
+
 <b>This app is Developed by Ayush Anand</b><br>
 <h5> This app is A part of the PROJECT work for 2 credit course(The course is handeled by DSC VIT Vellore)</h5><br>
