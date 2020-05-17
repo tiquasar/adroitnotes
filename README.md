@@ -12,5 +12,5 @@ Features of AdroitNotes:<br>
   
 </p>
 
-This app is Developed by Ayush Anand<br>
+#This app is Developed by Ayush Anand<br>
 <h5> This app is A part of the PROJECT work for 2 credit course(The course is handeled by DSC VIT Vellore)</h5><br>
