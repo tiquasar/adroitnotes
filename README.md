@@ -16,6 +16,27 @@ Features of AdroitNotes:<br>
 
 <h3> Screenshots - Few Screenshots included ,More Screenshots can be found in Screenshots Folder.</h3>
 
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="img_forest.jpg">
+  <img src="https://github.com/tiquasar/adroitnotes/blob/master/ScreenShots/Screenshot%20(3).jpeg" >
+</a>
+
+</body>
+
 
 <b>This app is Developed by Ayush Anand</b><br>
 <h5> This app is A part of the PROJECT work for 2 credit course(The course is handeled by DSC VIT Vellore)</h5><br>
