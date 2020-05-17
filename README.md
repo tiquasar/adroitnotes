@@ -9,6 +9,8 @@ Features of AdroitNotes:<br>
   4.) Beautiful and Minimal Theme Design and Splash Screen.<br>
   5.) Lightweight on CPU Resources.<br>
   6.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br>
+  
 </p>
 
-<h5> This app is A part of the PROJECT work for 2 credit course(The course is handeled by DSC VIT Vellore)</h5>
+<h5> This app is Developed by Ayush Anand</h5><br>
+<h5> This app is A part of the PROJECT work for 2 credit course(The course is handeled by DSC VIT Vellore)</h5><br>
