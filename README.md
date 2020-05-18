@@ -17,11 +17,11 @@ Features of AdroitNotes:<br>
 Other architecture links can be found in <a href="https://github.com/tiquasar/adroitnotes/tree/master/Apk%20--release">Apk --release folder.</a><br><br>
 <b>This app is Developed by Ayush Anand</b><br>
 
-  
-  
+  https://github.com/tiquasar/adroitnotes/tree/master/App%20Screenshots
+
 </p>
 
-<h3> Screenshots - Few Screenshots included ,More Screenshots can be found in Screenshots Folder.</h3>
+<h3> Screenshots - Few Screenshots included ,More Screenshots can be found in   <a href="https://github.com/tiquasar/adroitnotes/tree/master/App%20Screenshots"> Screenshots Folder.</a></h3>
 
 
 <img src="https://github.com/tiquasar/adroitnotes/blob/master/App%20Screenshots/splash.png" height="480" width="250"  >
