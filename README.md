@@ -1,9 +1,5 @@
 # AdroitNotes
 A Fast and Minimal Notes App.<br>
-Download Links:<br>
-1.)arm64-v8a :https://github.com/tiquasar/adroitnotes/blob/master/Apk%20--release/AdroitNotes-arm64-v8a-release.apk<br>
-2.)genericrelease: https://github.com/tiquasar/adroitnotes/blob/master/Apk%20--release/AdroitNotes-genericrelease.apk (with all support packages.)<br>
-Other architecture links can be found in Apk --release folder.<br>
 <p>
 AdroitNotes is a Fast,Minimal Efficient Note taking Application.<br>
 Features of AdroitNotes:<br>
@@ -14,6 +10,10 @@ Features of AdroitNotes:<br>
   5.) Lightweight on CPU Resources.<br>
   6.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br>
   7.) The App has A dedicated App Review and Bug Report Section.<br><br>
+  Download Links:<br>
+1.)arm64-v8a :https://github.com/tiquasar/adroitnotes/blob/master/Apk%20--release/AdroitNotes-arm64-v8a-release.apk<br>
+2.)genericrelease: https://github.com/tiquasar/adroitnotes/blob/master/Apk%20--release/AdroitNotes-genericrelease.apk (with all support packages.)<br>
+Other architecture links can be found in Apk --release folder.<br>
 <b>This app is Developed by Ayush Anand</b><br>
 
   
