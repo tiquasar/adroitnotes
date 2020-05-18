@@ -13,7 +13,7 @@ Features of AdroitNotes:<br>
   Download Links:<br>
 1.)arm64-v8a :https://github.com/tiquasar/adroitnotes/blob/master/Apk%20--release/AdroitNotes-arm64-v8a-release.apk<br>
 2.)genericrelease: https://github.com/tiquasar/adroitnotes/blob/master/Apk%20--release/AdroitNotes-genericrelease.apk (with all support packages.)<br>
-Other architecture links can be found in Apk --release folder.<br>
+Other architecture links can be found in Apk --release folder.<br><br>
 <b>This app is Developed by Ayush Anand</b><br>
 
   
