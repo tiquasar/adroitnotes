@@ -25,6 +25,6 @@ Other architecture links can be found in Apk --release folder.<br><br>
 
 
 <img src="https://github.com/tiquasar/adroitnotes/blob/master/App%20Screenshots/splash.png" height="480" width="250"  >
-<img src="https://github.com/tiquasar/adroitnotes/blob/master/App%20Screenshots/Screenshot%20(3).jpeg height="480" width="250" >
+<img src="https://github.com/tiquasar/adroitnotes/blob/master/App%20Screenshots/Screenshot%20(3).jpeg" height="480" width="250" >
 
 <h5> This app is made by me for the graded PROJECT work for 2 credit course(By Developer Student Club in my College).
