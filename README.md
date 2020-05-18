@@ -18,7 +18,6 @@ Features of AdroitNotes:<br>
 Other architecture links can be found in <a href="https://github.com/tiquasar/adroitnotes/tree/master/Apk%20--release%20V2">Apk --release V2 folder.</a><br><br>
 <b>This app is Developed by Ayush Anand</b><br>
 
-  https://github.com/tiquasar/adroitnotes/tree/master/App%20Screenshots
 
 </p>
 
