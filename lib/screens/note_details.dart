@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:adroitnotes/models/note.dart';
 import 'package:adroitnotes/utils/database_helper.dart';
 import 'package:intl/intl.dart';
+import 'package:share/share.dart';
 import 'package:flutter_gradient_colors/flutter_gradient_colors.dart';
 
 class NoteDetails extends StatefulWidget {
@@ -46,7 +47,7 @@ class _NoteDetailsState extends State<NoteDetails> {
                 tileMode: TileMode.clamp),
           ),
         ),
-        title: Text(appBarTitle,
+        title: Text('Edit/View Note',
           style: TextStyle(fontFamily: 'Montserrat', fontSize: 22,fontWeight: FontWeight.w500,letterSpacing: 1),
         ),
       ),
@@ -140,6 +141,28 @@ class _NoteDetailsState extends State<NoteDetails> {
               padding: EdgeInsets.only(top: 15.0, bottom: 15.0),
               child: Row(
                 children: <Widget>[
+                  Expanded(
+                    child: RaisedButton(
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(18.0),
+                      ),
+                      color: Colors.lightGreenAccent,
+                      textColor: Theme.of(context).primaryColorDark,
+                      child: Text(
+                        'Share',
+                        textScaleFactor: 1.5,
+                      ),
+                      onPressed: () {
+                        setState(() {
+                          print('Share button clicked');
+                          _shareNote();
+                        });
+                      },
+                    ),
+                  ),
+                  SizedBox(
+                    width: 10.0,
+                  ),
                   Expanded(
                     child: RaisedButton(
                       shape: RoundedRectangleBorder(
@@ -302,5 +325,8 @@ class _NoteDetailsState extends State<NoteDetails> {
       backgroundColor: Colors.blueAccent,
     );
 
+  }
+  _shareNote() {
+    Share.share('Note Title: '+note.title + '\n\n' + 'Note Description: '+note.description);
   }
 }
