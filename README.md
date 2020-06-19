@@ -29,4 +29,4 @@ Other architecture links can be found in <a href="https://github.com/tiquasar/ad
 <img src="https://github.com/tiquasar/adroitnotes/blob/master/App%20Screenshots/splash.png" height="480" width="250"  >
 <img src="https://github.com/tiquasar/adroitnotes/blob/master/App%20Screenshots/Screenshot%20(3).jpeg" height="480" width="250" >
 
-<h5> This app is made by me for the graded PROJECT work for 2 credit course(By Developer Student Club in my College).
+<h5> This app is made by me for the graded PROJECT work for 2 credit course:,<b>Open Source Development for Google Applications</b> (By Developer Student Club in my College).
